@@ -1,6 +1,7 @@
 # Thai Analysis Plugin for OpenSearch
 
 The Thaichub2 (thai-chub-chub) Analysis Plugin integrates the Thai word segmentation modules into OpenSearch.
+Forked from : https://github.com/tlefsad/elasticsearch-analysis-thaichub2
 
 ## Installation on OpenSearch
 
